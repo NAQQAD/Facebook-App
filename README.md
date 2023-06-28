@@ -1,4 +1,4 @@
-# Facebook-App Privacy Policy
+# SociAll Privacy Policy
 
 This Privacy Policy governs the manner in which SociAll collects, uses, maintains, and discloses information collected from users (referred to as "User" or "you") of the SociAll mobile application (referred to as the "SAll").
 
